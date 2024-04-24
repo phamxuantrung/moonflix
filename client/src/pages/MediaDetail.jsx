@@ -91,7 +91,7 @@ const MediaDetail = () => {
     if (response) {
       dispatch(addFavorite(response));
       setIsFavorite(true);
-      toast.success("zz");
+      toast.success("Add favorite success");
     }
   };
 

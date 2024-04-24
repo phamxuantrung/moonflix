@@ -2,7 +2,7 @@
   "name": "moonflix",
   "type": "module",
   "version": "0.0.1",
-  "author": "Group 9: TTCSN",
+  "author": "Group 9: TTCN",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
